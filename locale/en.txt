@@ -1,0 +1,61 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 360 Cluster Elaia
+
+## Skin
+
+### Button
+Button_8C63782A_DCA7_64D5_41E4_B44E425E1550.label = CONTACT
+
+### Multiline Text
+HTMLText_8C63582A_DCA7_64D5_41B4_1CCE0A87411A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.999999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:5vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.200000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.8300000000000063vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.83vh;font-family:'Oswald Regular';"><B>Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>info@loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 1</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 2</B></SPAN></SPAN></DIV></div>
+HTMLText_C02767BB_DD67_2B2B_41E3_A188B69F9625.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4400000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Unfitted</SPAN></DIV></div>
+HTMLText_C03947BF_DD67_2B2B_41E1_8CD5E27116F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.4400000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Fitted</SPAN></DIV></div>
+HTMLText_CFB18C6B_DBA3_7D2B_41D8_7879F0622A1E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:35px;"><B>{{TITLE}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>{{Subtitle}}</B></SPAN></SPAN></DIV></div>
+
+### Label
+Label_4C941264_425A_75E5_419B_792D9F72973E.text = ( 2KT )
+Label_4C95B264_425A_75E5_41AC_07592C165C27.text = OMEGA 5X9
+Label_4C96A264_425A_75E5_41C7_E53CCD32B16E.text = BETA 3.5 X 9
+Label_4C96C254_425A_7526_41C5_DE46AA96D6F7.text = ALPHA 3.5 x 9 
+Label_4C96C264_425A_75E5_41C0_2937F6DC1615.text = ( 2KT )
+Label_4C97D254_425A_7526_41CA_966C49B99F7E.text = ( 1KT )
+Label_4C9F6254_425A_7526_41B7_9BA3F6AE2E7E.text = FACILITIES
+Label_BB1AEA1F_98A5_DEDA_41DC_5E8C6A1255CD.text = BEV 01
+Label_BB339E0E_98A5_D6BA_41C7_CD19D22F96F5.text = BEV 02
+Label_C6282F38_E9E0_D551_41E0_A078CB3D6BC1.text = AEV 01
+Label_D9A0FF1A_E9E1_D556_4197_700A842FF443.text = AEV 02
+Label_F310AD1D_E963_D52C_41E3_4D0787BE32B7.text = OMEGA 5X9 ( 2KT )
+Label_F3116D27_E963_D51C_41D7_5E098073E6E5.text = THETA 5X9
+Label_F311DD22_E963_D514_41DB_9EC8068AC124.text = GAMMA 4X9
+Label_F3136D0E_E963_D52C_41E4_32A8E1C943AC.text = FACILITIES
+Label_F313DD12_E963_D534_41B1_B9AC5CD82476.text = ALPHA 3.5 x 9 ( 1KT )
+Label_F313DD17_E963_D53C_41AC_6BC1F5D748A6.text = BETA 3.5 X 9 ( 2KT )
+Label_F46E929A_C12F_AD94_41D5_5720D132232F.text = BEV 02
+Label_F478C601_C12F_B477_41DC_6283ABB0EF3A.text = BEV 03
+Label_F4D7968D_C155_F58F_41DF_11D76EB9564D.text = BEV 03
+Label_F4D9CB1D_C12A_9C8C_41E7_ED7108D1F117.text = MEV 01
+
+## Media
+
+### Title
+map_D8199418_C13E_9494_41CF_F2CB6DF73845.label = ClusterElaia_TipeL04_Floorplan
+panorama_D2818B5D_C157_9C8F_41BA_8E442831257C.label = 360PIK2Golf_ViewMEV01
+panorama_D2853EB1_C156_B597_41D6_4B403DA478DC.label = 360PIK2Golf_ViewBEV02
+panorama_D294D4B4_C156_B59D_41D9_32EA8E17CD29.label = 360PIK2Golf_ViewAEV02
+panorama_D2A01989_C155_BC77_41DB_D5E7145B2D2F.label = 360PIK2Golf_ViewAEV01
+panorama_D2DF0F51_C156_9494_41E5_3D3E4B992B4F.label = 360PIK2Golf_ViewBEV01
+panorama_D5262E24_C156_94BD_41D9_EA09E309A514.label = 360PIK2Golf_ViewMEV02
+panorama_D56C6F43_C157_B4FB_41E5_C88B3AE2AFE5.label = 360PIK2Golf_ViewBEV03
+panorama_D56CDBB7_C156_F39C_4193_245A61A75F3E.label = 360PIK2Golf_ViewMEV03
+
+## Action
+
+### URL
+LinkBehaviour_8A1C3DF1_DCAF_1F37_41E4_FFFE7C8C2C46.source = http://www.loremipsum.com
+PopupWebFrameBehaviour_8EB07A8F_976D_3FBA_41E2_B5CD9F79DE93.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1478.2653768796438!2d106.62939612358235!3d-6.338853328092568!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e500167a94ab%3A0xc5d717bf6c8480bf!2sCluster%20Elaia%20(Citra%20Garden%20Serpong)!5e1!3m2!1sen!2sid!4v1724831388244!5m2!1sen!2sid
