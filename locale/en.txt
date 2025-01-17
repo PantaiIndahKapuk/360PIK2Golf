@@ -44,7 +44,7 @@ Label_F4D9CB1D_C12A_9C8C_41E7_ED7108D1F117.text = View TGS
 ## Media
 
 ### Title
-map_F4F6287B_D28C_8DC9_4184_5DF5C2E82675.label = ClusterElaia_TipeL04_Floorplan
+map_6267CD41_7270_A94E_41D8_D8A1486617E6.label = ClusterElaia_TipeL04_Floorplan
 panorama_417F2945_4F7F_EABD_41CE_1B9D1EEB24CD.label = Aerial View2
 panorama_42B5534A_4F7C_7EB7_41D2_DF95017B4D4A.label = Aerial View1
 panorama_498469D3_442A_14B6_41C5_C581771F201F.label = View TGS
